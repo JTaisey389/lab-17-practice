@@ -1,0 +1,27 @@
+{
+  "name": "lab-17-practice",
+  "version": "1.0.0",
+  "description": "lab-17-practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JTaisey389/lab-17-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JTaisey389/lab-17-practice/issues"
+  },
+  "homepage": "https://github.com/JTaisey389/lab-17-practice#readme",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "socket.io": "^4.1.0",
+    "supertest": "^6.1.3"
+  }
+}
